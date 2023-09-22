@@ -1,4 +1,4 @@
-# Instrumentation-amplifier
+# Instrumentation-amplifier for thermocouple 
 
 An Instrumentation Amplifier, often abbreviated as In-Amp, is a specialized operational amplifier (op-amp) configuration designed for precision signal conditioning in various measurement and sensing applications. This repository serves as a comprehensive resource to help you understand, design, and implement instrumentation amplifiers in your projects.
 
