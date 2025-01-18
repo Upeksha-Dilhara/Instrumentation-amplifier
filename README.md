@@ -8,7 +8,5 @@ Here, you will find valuable information, code examples, and documentation relat
 
 We  are supposed to design an instrument amplifier for thermocouple. This is a group project with Nimesh Kavinda, Kavindu Shehan and myself. 
 
-## Design steps 
-- First you have to find the specification of your sensor input and your amplifier required.
   
 [thermocople spec.pdf](https://github.com/Upeksha-Dilhara/Instrumentation-amplifier/files/12695821/thermocople.spec.pdf)
