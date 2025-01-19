@@ -34,10 +34,9 @@ The amplifier is optimized to reject noise and maintain signal integrity in vari
 ### PCB Design
 <p align="justify">The PCB design employs a two-layer board measuring 22mm by 33mm. The top layer is allocated for power lines with a width of 20 mil and signal tracks with a width of 10 mil, while the bottom layer serves as a ground plane to minimize EMI. Components are strategically positioned close to the thermocouple connections to ensure accurate cold-junction compensation. Differential pair routing is utilized for positive and negative input signals, and the design was verified using Altium's design rule checker. The PCBs were manufactured by JLCPCB.</p>
 
-![image](https://github.com/user-attachments/assets/2a7d6f2a-cb9a-43ee-adca-1a7ab0d75394) 
-![image](https://github.com/user-attachments/assets/6a82bf33-c74a-4c5b-99f2-cca6f268a8a9)
-![image](https://github.com/user-attachments/assets/1013324f-1bf2-4b1b-b0c4-756226d9ef63)
-
+![image](https://github.com/user-attachments/assets/b22b34e7-9679-4c76-85b3-f5f0347e5764)
+![image](https://github.com/user-attachments/assets/e30eba97-d7d3-457c-a4fa-0a51bbb68496)
+![image](https://github.com/user-attachments/assets/9dfbf445-9198-4960-9a88-896fc14c2b70)
 
 <p align="justify">The fabrication adhered to specific constraints, including a minimum trace width of 10 mil, a minimum via diameter of 20 mil, and a minimum track spacing of 10 mil. Components were sourced from Mouser Electronics and assembled manually using soldering tools, ensuring high-quality construction of the PCB.</p>
 
