@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=R2IC_N New Net Name=MID_N
+Change Net Name : Old Net Name=R2IC_P New Net Name=MID_P
+Added Differential Pair: Name=MID
+Added Room: Name=Sheet1

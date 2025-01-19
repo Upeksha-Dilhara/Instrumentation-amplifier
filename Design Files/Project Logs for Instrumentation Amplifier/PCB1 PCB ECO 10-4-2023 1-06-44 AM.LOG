@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Change Component Footprint: Designator=C1 Old Footprint=FP-C0402-BB-MFG New Footprint=CAPC2012X88N
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=80BABF5B-23F6-4A21-B899-752CEF262202 New ItemGUID= Old RevisionGUID=18EE1AE1-34E1-4AFF-85C8-42DF63867BA7 New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-C0402-BB-MFG"; UniqueID = "\ZOKOBKMJ" ("\ZOKOBKMJ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_C1091_C0G_ESD.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K8RACAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K8RAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C103K8RACAUTO?qs=MyNHzdoqoQL%2F3d5ufVgX2g%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Room: Name=Sheet1

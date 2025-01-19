@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=OUT Pin=U1-5
+Removed Pin From Net: NetName=OUT Pin=U1-6
+Removed Pin From Net: NetName=VCC Pin=U1-7
+Removed Pin From Net: NetName=NetC3_2 Pin=U1-8
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=IC?(SOP65P490X110-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "AD8495ARMZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ad8495armz/analog-devices?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://componentsearchengine.com/Datasheets/1/AD8495ARMZ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8495ARMZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8495ARMZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8495ARMZ?qs=%2FtpEQrCGXCzFkbQFVK6T6w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=OUT Pin=IC?-5
+Added Pin To Net: NetName=OUT Pin=IC?-6
+Added Pin To Net: NetName=VCC Pin=IC?-7
+Added Pin To Net: NetName=NetC3_2 Pin=IC?-8
+Added Member To Class: ClassName=Sheet1 Member=Component IC? AD8495ARMZ
+Added Member To Class: ClassName=Sheet1 Member=Component J2 PCC-SMP-K-5
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
